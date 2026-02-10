@@ -165,3 +165,8 @@ If you have any questions about this Privacy Policy or your data, contact us at:
 <p>
 <a href="mailto:hello@lumah.org">hello@lumah.org</a>
 </p>
+
+
+<footer>
+  <a href="/policy">Policy</a> | 
+</footer>
